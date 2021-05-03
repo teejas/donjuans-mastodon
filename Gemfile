@@ -33,7 +33,7 @@ gem 'charlock_holmes', '~> 0.7.7'
 gem 'iso-639'
 gem 'chewy', '~> 5.2'
 gem 'cld3', '~> 3.4.1'
-gem 'devise', '~> 4.7'
+gem 'devise', '~> 4.8'
 gem 'devise-two-factor', git: 'https://github.com/ClearlyClaire/devise-two-factor', ref: '594bb8a32e6f94df7e5ba7c9399eaf9ff25bac0d'
 
 group :pam_authentication, optional: true do
