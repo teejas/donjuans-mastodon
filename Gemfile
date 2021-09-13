@@ -69,7 +69,7 @@ gem 'nsa', git: 'https://github.com/Gargron/nsa', ref: 'd1079e0cdafdfed7f9f35478
 gem 'oj', '~> 3.11'
 gem 'ox', '~> 2.14'
 gem 'parslet'
-gem 'parallel', '~> 1.20'
+gem 'parallel', '~> 1.21'
 gem 'posix-spawn'
 gem 'pundit', '~> 2.1'
 gem 'premailer-rails'
